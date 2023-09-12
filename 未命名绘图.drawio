@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T10:08:57.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="t4JdDLAsqgnUk_6IkXv_" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T14:53:41.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="84sntb-OceoNW0xgCvPg" version="21.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="819" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,11 +127,17 @@
         <mxCell id="stuIeU_nHZXq38iPbW_k-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="stuIeU_nHZXq38iPbW_k-37" target="stuIeU_nHZXq38iPbW_k-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="stuIeU_nHZXq38iPbW_k-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="stuIeU_nHZXq38iPbW_k-37" target="stuIeU_nHZXq38iPbW_k-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="stuIeU_nHZXq38iPbW_k-37" value="结果分析" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="stuIeU_nHZXq38iPbW_k-41" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="stuIeU_nHZXq38iPbW_k-41" value="阿达木单抗在改善临床症状方面优于英夫利昔单抗&lt;br&gt;英夫利昔单抗在降低血清炎性细胞因子方面优于阿达木单抗" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="760" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stuIeU_nHZXq38iPbW_k-44" value="论文撰写投稿" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="900" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
